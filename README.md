@@ -21,4 +21,20 @@ it works by taking various path's of the etc hosts file and loops irt back by co
 
 # how can you add your own domains? 
 
-this script opens a file called 
+this script opens a file called blacklist.txt in the file txt, when you want to add a website or blacklist one just open the file and type the domain name. an example is => www.twitter.com. now when you run the script the following will output 
+<br>
+<br>
+# for this example i am on DEEPIN os using a pre compiled version of this script, with the following websites in the blacklist.txt
+
+```
+www.example.com
+www.google.com
+www.duckduckgo.com
+www.blog.logrocket.com
+www.liquidweb.com
+www.apple.stackexchange.com
+www.en.wikipedia.org
+www.pkg.go.dev
+www.twitter.com
+www.facebook.com
+```
