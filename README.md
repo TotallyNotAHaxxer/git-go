@@ -104,3 +104,9 @@ _______________________________________
 [ * ] STAT: Trying TCP dialup LAST TIME ->  &{{0xc000134b80}}                  
 
 ```
+
+# once the output continues you can now visit the website but you will recieve the following error 
+
+
+![alt text](demo.png "Example")
+
