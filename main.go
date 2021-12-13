@@ -346,6 +346,8 @@ func dial_attemptin() {
 	}
 }
 
+// designed and created by https://github.com/ArkAngeL43 remake of blockfer in python3
+
 func main() {
 	flag.Parse()
 	clear(chex)
