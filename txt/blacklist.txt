@@ -1,0 +1,11 @@
+www.example.com
+www.google.com
+www.duckduckgo.com
+www.blog.logrocket.com
+www.liquidweb.com
+www.apple.stackexchange.com
+www.en.wikipedia.org
+www.pkg.go.dev
+www.twitter.com
+www.facebook.com
+www.instagram.com
